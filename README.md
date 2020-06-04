@@ -1,2 +1,2 @@
 # JHU Mod 2 Assignment - Responsive Layout
-JHU module 2 assignment
+John Hopkins University - Web Dev course on Coursera
